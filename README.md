@@ -12,10 +12,15 @@
 ** **
 # 📦 Kurulum
 Desteklenen Sürümler: 1.20x
+
 JDK 17 ve üstünde çalışmaktadır.
+
 cTag.jar dosyasını indirin.
+
 Sunucunuzun /plugins klasörüne atın.
+
 Sunucuyu başlatın ve config.yml üzerinden ayarlarınızı yapın.
+
 ** **
 # 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
